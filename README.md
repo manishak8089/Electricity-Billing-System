@@ -11,7 +11,7 @@ Welcome to the **Electricity Billing System** – a PHP-based application design
 - **👥 Customer Management**: Add new customers, view existing customers, and update or delete customer information.
 - **📈 Transaction Monitoring**: Track payments and transaction histories.
 - **🛠️ Handle Complaints**: View and resolve customer complaints efficiently.
-
+- **⚙️ Manage Electricity Boards**: Add new electricity boards,view all boards,modify board information, remove boards and link customers to specific boards.
 ### User Portal
 - **💡 View Bills**: Access personal billing information and history.
 - **💳 Pay Bills**: Securely process payments for electricity consumption.
@@ -33,5 +33,14 @@ Welcome to the **Electricity Billing System** – a PHP-based application design
 - PHP 7.x or higher
 - MySQL
 - A web server (e.g., Apache, Nginx, XAMPP, WAMP)
+### ER Diagram
+![ER Diagram](./screenshots/er diagram.jpg)
+### 📸 Screenshots
+### Admin Dashboard
+![Admin Dashboard](./screenshots/customer.jpg)
+![Admin Dashboard](./screenshots/generate_bills.jpg)
+
+### User Dashboard
+![User Dashboard](./screenshots/bills.jpg)
 
 
