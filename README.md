@@ -34,7 +34,7 @@ Welcome to the **Electricity Billing System** – a PHP-based application design
 - MySQL
 - A web server (e.g., Apache, Nginx, XAMPP, WAMP)
 ### ER Diagram
-![ER Diagram](./screenshots/er diagram.jpg)
+![ER Diagram](./screenshots/er_diagram.jpg)
 ### 📸 Screenshots
 ### Admin Dashboard
 ![Admin Dashboard](./screenshots/customer.jpg)
