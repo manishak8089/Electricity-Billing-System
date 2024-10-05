@@ -4,7 +4,7 @@ Welcome to the **Electricity Billing System** – a PHP-based application design
 
 ![Electricity Billing System](./screenshots/main.jpg)
 
-## 🌟 Key Features
+## 🌟 Key Features:
 
 ### Admin Panel
 - **🧾 Manage Bills**: Check, issue, and update customer bills with ease.
